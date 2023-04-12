@@ -1,4 +1,4 @@
-# Project 3 - ** Flixster Pt 3 **
+# Project 3 - * Flixster *
 
 Submitted by: **Rafee Adnan**
 
