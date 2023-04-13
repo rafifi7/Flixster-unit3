@@ -36,7 +36,7 @@ GIF created with ...
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
-![]()
+![](https://github.com/rafifi7/Flixster-unit3/blob/main/flixtsterr.gif)
 
 ## Notes
 
