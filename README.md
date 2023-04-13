@@ -2,7 +2,7 @@
 
 Submitted by: **Rafee Adnan**
 
-**Flixster** is an app that introduces movie rating.
+**Flixster** is an app that introduces a simple way to view popular movie ratings, titles, descriptions.
 
 Time spent: **4** hours spent in total
 
